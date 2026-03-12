@@ -1,16 +1,16 @@
 {
  "signals":[
-  {"time":"19:00","type":"S"},
-  {"time":"19:05","type":"B"},
-  {"time":"19:10","type":"B"},
-  {"time":"19:15","type":"S"},
-  {"time":"19:20","type":"S"},
-  {"time":"19:25","type":"B"},
-  {"time":"19:30","type":"S"},
-  {"time":"19:35","type":"S"},
-  {"time":"19:40","type":"B"},
-  {"time":"19:45","type":"B"},
-  {"time":"19:50","type":"S"},
-  {"time":"19:55","type":"B"}
+  {"time":"20:00","type":"S"},
+  {"time":"20:05","type":"B"},
+  {"time":"20:10","type":"B"},
+  {"time":"20:15","type":"S"},
+  {"time":"20:20","type":"S"},
+  {"time":"20:25","type":"B"},
+  {"time":"20:30","type":"S"},
+  {"time":"20:35","type":"S"},
+  {"time":"20:40","type":"B"},
+  {"time":"20:45","type":"B"},
+  {"time":"20:50","type":"S"},
+  {"time":"20:55","type":"B"}
  ]
 }
