@@ -1,0 +1,16 @@
+{
+ "signals":[
+  {"time":"15:00","type":"S"},
+  {"time":"15:05","type":"B"},
+  {"time":"15:10","type":"B"},
+  {"time":"15:15","type":"S"},
+  {"time":"15:20","type":"S"},
+  {"time":"15:25","type":"B"},
+  {"time":"15:30","type":"S"},
+  {"time":"15:35","type":"S"},
+  {"time":"15:40","type":"B"},
+  {"time":"15:45","type":"B"},
+  {"time":"15:50","type":"S"},
+  {"time":"15:55","type":"B"}
+ ]
+}
