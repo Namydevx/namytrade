@@ -1,14 +1,14 @@
 [
- {"time":"21:00","type":"S"},
- {"time":"21:05","type":"B"},
- {"time":"21:10","type":"B"},
- {"time":"21:15","type":"S"},
- {"time":"21:20","type":"S"},
- {"time":"21:25","type":"B"},
- {"time":"21:30","type":"S"},
- {"time":"21:35","type":"S"},
- {"time":"21:40","type":"B"},
- {"time":"21:45","type":"B"},
- {"time":"21:50","type":"S"},
- {"time":"21:55","type":"B"}
+ {"time":"22:00","type":"S"},
+ {"time":"22:05","type":"B"},
+ {"time":"22:10","type":"B"},
+ {"time":"22:15","type":"S"},
+ {"time":"22:20","type":"S"},
+ {"time":"22:25","type":"B"},
+ {"time":"22:30","type":"S"},
+ {"time":"22:35","type":"S"},
+ {"time":"22:40","type":"B"},
+ {"time":"22:45","type":"B"},
+ {"time":"22:50","type":"S"},
+ {"time":"22:55","type":"B"}
 ]
